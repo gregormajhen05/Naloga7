@@ -1,6 +1,6 @@
 # Website
-1. dwad
-2. ggfd
-3. gdfg
-4. dg
-5. dg
+1. Searching item
+2. Adding to cart
+3. Removing from cart
+4. Selecting/adding payment methord
+5. Order status
